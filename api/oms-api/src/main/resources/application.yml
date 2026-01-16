@@ -46,7 +46,7 @@ spring:
 #          timeout:
 #            ms: 18000 # 消费请求的超时时间
   application:
-    name: scm-api
+    name: oms-api
   data:
     # redis 配置
     redis:

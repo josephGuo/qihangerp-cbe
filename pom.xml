@@ -8,12 +8,12 @@
         <relativePath/>
       </parent>
 
-    <groupId>com.qihang</groupId>
-    <artifactId>qihangerp-cbe</artifactId>
+    <groupId>cn.qihangerp.erp</groupId>
+    <artifactId>qihang-cb-erp</artifactId>
     <version>0.9.7</version>
     <packaging>pom</packaging>
 
-    <name>qihangerp-cbe</name>
+    <name>qihang-cb-erp</name>
     <url>http://maven.apache.org</url>
     <modules>
         <module>api</module>
@@ -26,7 +26,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <spring-boot.version>3.0.2</spring-boot.version>
-        <spring-cloud.version>2022.0.0</spring-cloud.version>
+        <spring-cloud.version>2022.0.2</spring-cloud.version>
         <spring-cloud-alibaba.version>2022.0.0.0</spring-cloud-alibaba.version>
         <jwt.version>0.11.5</jwt.version>
 <!--        <maven.compiler.source>17</maven.compiler.source>-->

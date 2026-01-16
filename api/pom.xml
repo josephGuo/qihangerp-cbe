@@ -12,9 +12,10 @@
 <!--        <artifactId>qihangerp-cbce</artifactId>-->
 <!--        <version>0.9.7</version>-->
 <!--    </parent>-->
+    <groupId>cn.qihangerp.cb</groupId>
     <artifactId>api</artifactId>
     <packaging>pom</packaging>
-    <version>0.9.7</version>
+    <version>1.0</version>
     <name>api</name>
     <url>http://maven.apache.org</url>
     <modules>

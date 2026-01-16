@@ -1,4 +1,4 @@
-# 启航电商ERP系统-跨境版
+# 启航跨境电商ERP系统
 
 ## 一、项目概述
 
@@ -27,11 +27,11 @@
 + `MySQL`:数据库,版本8.x。
 + `minio文`:文件存储,用于图片存储。
 + `Redis`:在线用户信息、缓存。
-+ `Nacos`:版本2.3.2以上，注册中心。
++ `Eureka`:注册中心。
 
 ### 2.3 项目结构
 #### 2.3.1 gateway
-**网关Gateway，使用8088端口**
+**网关Gateway，使用8080端口**
 
 #### 2.3.2 oms-api
 **系统主体OMS功能模块，对接各大平台接口**
@@ -52,12 +52,6 @@
 + MySQL数据库创建
   + 运行MySQL脚本`docs\sql\qihangerp-cbe.sql`导入数据到主库`qihangerp-cbe`
 
-+ 启动nacos
-  + 启动
-  
-    **一般情况下：下载nacos2.3.2解压之后直接运行：**
-  
-    `startup.cmd -m standalone`
 
 + 启动Redis
 
@@ -68,7 +62,8 @@
   
 ### 3.2、启动后端
 
-+ 启动`api`下面的所有微服务
++ 启动`eureka-server`注册中心
++ 启动`gateway`gateway
 + 启动`oms-api`项目
 + 启动`sys-api`项目
 
