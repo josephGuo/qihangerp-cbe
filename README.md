@@ -86,33 +86,48 @@
 
 
 
-## 四、支持一下
+## 📦 启航电商开源生态
 
-**感谢大家的关注与支持！希望利用本人从事电商10余年的经验帮助到大家提升工作效率！**
+启航电商旗下开源项目矩阵，所有项目共同指向统一商业版：
 
-### 4.1 赠人玫瑰手留余香
-💖 如果觉得有用记得点个 Star⭐
+| 项目 | 定位 | Gitee | GitHub |
+|:----|:----|:-----|:-------|
+| [启航电商ERP](https://gitee.com/qiliping/qihang-ecom-erp-open) | 电商业务中台底座（微服务） | [Gitee](https://gitee.com/qiliping/qihang-ecom-erp-open) | [GitHub](https://github.com/zeasin/qihang-ecom-erp-open) |
+| **OMS 订单中台 ⬅** | **轻量级订单管理** | [Gitee](https://gitee.com/qiliping/qihang-oms) | [GitHub](https://github.com/zeasin/qihang-ecom-oms) |
+| [库存账簿](https://gitee.com/qiliping/qihang-stock-books) | 极简进销存 | [Gitee](https://gitee.com/qiliping/qihang-stock-books) | [GitHub](https://github.com/zeasin/qihang-stock-books) |
+| [跨境ERP](https://gitee.com/qiliping/qihang-cb-erp) | 跨境电商 | [Gitee](https://gitee.com/qiliping/qihang-cb-erp) | [GitHub](https://github.com/zeasin/qihang-cb-erp) |
+| [SCM 供应链](https://gitee.com/qiliping/qihangerp-scm) | 多商户多供应商系统（已合并到商业版） | [Gitee](https://gitee.com/qiliping/qihangerp-scm) | [GitHub](https://github.com/zeasin/qihangerp-scm) |
 
-<img src="docs/star.jpg" width="300px" />
+## 💼 商业版
 
-### 4.2 一起交流
+👉 **[启航电商ERP商业版功能预览](https://gitee.com/qiliping/qihangerp-docs)**
 
-💖 欢迎和朋友们一起交流！
-
-+ 微信公众号
-
-<img src="docs/微信公众号.jpg" width="300px" />
+👉 **了解更多？→** 电话/微信：15818590119
 
 
 
+## 📱 关注我们
 
-### 4.3 捐助作者
-作者为兼职做开源,平时还需要工作,如果帮到了您可以请作者吃个盒饭
+|                   公众号：启航电商ERP                   |                   个人号：码农老齐                   |
+|:-----------------------------------------------:|:--------------------------------------------:|
+|                 产品动态·行业方案·客户案例                  |                技术实战·开源故事·创业心得                |
+| <img src="docs/wxmp_qherp.jpg" width="200px" /> | <img src="docs/wxmp_qi.jpg" width="200px" /> |
 
-<img src="docs/微信收款码.jpg" width="300px" />
-<img src="docs/支付宝收款码.jpg" width="300px" />
 
-### 4.4 获取授权与服务
+**感谢关注！我希望将从事电商 10 余年的行业经验沉淀在代码中，帮助大家真正提升经营效率。**
 
-[如何获取授权与服务](https://mp.weixin.qq.com/s/mATn2nfc5bUePohS_s2WGw)
+💖 如果项目对您有帮助，请点个 **Star ⭐** 给予鼓励！
+
+
+---
+
+## ☕ 捐助作者
+
+如果这个项目对您有用，欢迎请作者吃个盒饭，您的支持是项目持续更新的动力！
+
+|                      微信支付                       |                     支付宝                      |
+|:-----------------------------------------------:|:--------------------------------------------:|
+|                   捐赠随意，捐赠进交流群                   |                捐赠随意，捐赠进交流群                |
+| <img src="docs/微信收款码.jpg" width="200px" /> | <img src="docs/支付宝收款码.jpg" width="200px" /> |
+
 
